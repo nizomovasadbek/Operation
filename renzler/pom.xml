@@ -23,7 +23,7 @@
     <packaging>jar</packaging>
 
     <name>Operation</name>
-         <description></description>
+         <description>This is a description</description>
     <url>http://github.com/nizomovasadbek/Operation</url>
 
     <properties>
