@@ -26,13 +26,22 @@
          <description>Bu maven central ga joylash uchun oddiy sinov kutubxonasi</description>
     <url>http://github.com/nizomovasadbek/Operation</url>
          
-         <licenses>
-  <license>
-    <name>The Apache License, Version 2.0</name>
-    <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-  </license>
-</licenses>
+     <licenses>
+            <license>
+                  <name>The Apache License, Version 2.0</name>
+                  <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            </license>
+      </licenses>
 
+    <developers>
+         <developer>
+                  <name>Manfred Moser</name>
+                  <email>manfred@sonatype.com</email>
+                  <organization>Sonatype</organization>
+                  <organizationUrl>http://www.sonatype.com</organizationUrl>
+         </developer>
+    </developers>
+         
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
