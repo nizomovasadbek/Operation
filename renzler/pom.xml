@@ -43,6 +43,13 @@
                   <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
             </license>
       </licenses>
+         
+         <distributionManagement>
+                  <snapshotRepository>
+                           <id>ossrh</id>
+                           <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+                  </snapshotRepository>
+         </distributionManagement>
 
     <scm>
          <connection>scm:git:git://github.com/nizomovasadbek/Operation.git</connection>
