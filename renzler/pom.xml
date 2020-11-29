@@ -33,6 +33,12 @@
             </license>
       </licenses>
 
+    <scm>
+         <connection>scm:git:git://github.com/nizomovasadbek/Operation.git</connection>
+         <developerConnection>scm:git:ssh://github.com:nizomovasadbek/Operation.git</developerConnection>
+         <url>http://github.com/nizomovasadbek/Operation</url>
+    </scm>
+         
     <developers>
          <developer>
                   <name>Nizomov Asadbek</name>
