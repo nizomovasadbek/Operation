@@ -23,7 +23,7 @@
     <packaging>jar</packaging>
 
     <name>Operation</name>
-         <description>This is a description</description>
+         <description>Bu maven central ga joylash uchun oddiy sinov kutubxonasi</description>
     <url>http://github.com/nizomovasadbek/Operation</url>
 
     <properties>
