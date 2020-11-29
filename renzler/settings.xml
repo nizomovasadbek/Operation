@@ -2,8 +2,8 @@
   <servers>
     <server>
       <id>ossrh</id>
-      <username>your-jira-id</username>
-      <password>your-jira-pwd</password>
+      <username>renzler</username>
+      <password>L-2ur@-ca8!RQht</password>
     </server>
   </servers>
 </settings>
