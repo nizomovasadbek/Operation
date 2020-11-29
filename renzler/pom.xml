@@ -23,7 +23,8 @@
     <packaging>jar</packaging>
 
     <name>Operation</name>
-    <url>http://maven.apache.org</url>
+         <description></description>
+    <url>http://github.com/nizomovasadbek/Operation</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
