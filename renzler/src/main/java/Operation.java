@@ -2,13 +2,6 @@ public final class Operation {
     public static double add(double a, double b){
         return a+b;
     }
-    public static double add_how_you_want(double ... a){
-        double natija = 0;
-        for(double x:a){
-            natija += x;
-        }
-        return natija;
-    }
     public static double minus(double a, double b){
         return a-b;
     }
