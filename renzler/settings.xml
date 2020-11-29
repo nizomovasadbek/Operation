@@ -3,7 +3,7 @@
     <server>
       <id>ossrh</id>
       <username>renzler</username>
-      <password>L-2ur@-ca8!RQht</password>
+      <password>password</password>
     </server>
   </servers>
 </settings>
