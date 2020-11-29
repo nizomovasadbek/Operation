@@ -8,6 +8,16 @@
     <artifactId>renzler</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <settings>
+  <servers>
+    <server>
+      <id>ossrh</id>
+      <username>renzler</username>
+      <password>L-2ur@-ca8!RQht</password>
+    </server>
+  </servers>
+</settings>
+         
     <build>
         <plugins>
             <plugin>
